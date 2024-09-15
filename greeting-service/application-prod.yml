@@ -11,8 +11,4 @@ management:
         include: "*"
 greeting-service:
   greeting: "Pronto"
-<<<<<<< HEAD
-  default-value: "Mondo"
-=======
   default-value: "Mondooo"
->>>>>>> c355c03 (Yml file prod changed)
